@@ -67,8 +67,6 @@ function Header() {
 
 function Menu() {}
 
-function Footer() {}
-
 //React v18
 const root = ReactDOM.createRoot(document.getElementById('root'));
 root.render(
